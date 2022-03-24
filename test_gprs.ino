@@ -1,9 +1,9 @@
 #include <TinyGsmClient.h>
 
 // Your GPRS credentials (leave empty, if not needed)
-const char apn[] = "internet";      // APN (example: internet.vodafone.pt) use https://wiki.apnchanger.org
-const char gprsUser[] = "internet"; // GPRS User
-const char gprsPass[] = "internet"; // GPRS Password
+const char apn[] = "internet.mtn.bj";      // APN (example: internet.vodafone.pt) use https://wiki.apnchanger.org
+const char gprsUser[] = "mtn"; // GPRS User
+const char gprsPass[] = "mtn"; // GPRS Password
 
 // Server details
 // The server variable can be just a domain name or it can have a subdomain. It depends on the service you are using
